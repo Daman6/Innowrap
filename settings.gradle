@@ -1,0 +1,2 @@
+rootProject.name = "Innowrap Assignment"
+include ':app'
